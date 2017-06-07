@@ -1,0 +1,76 @@
+/*
+
+    VARIABLES
+
+*/
+
+$font-size-headline: 6rem;
+$font-size-subheadline: 4rem;
+$font-size-1: 3rem;
+$font-size-2: 2.25rem;
+$font-size-3: 1.5rem;
+$font-size-4: 1.25rem;
+$font-size-5: 1rem;
+$font-size-6: .875rem;
+$font-size-7: .75rem;
+
+$letter-spacing-tight:-.025em;
+$letter-spacing-1:.1em;
+$letter-spacing-2:.25em;
+
+$line-height-solid: 1;
+$line-height-title: 1.25;
+$line-height-copy: 1.5;
+
+$spacing-none: 0 !default;
+$spacing-extra-small: .25rem !default;
+$spacing-small: .5rem !default;
+$spacing-medium: 1rem !default;
+$spacing-large: 2rem !default;
+$spacing-extra-large: 4rem !default;
+$spacing-extra-extra-large: 8rem !default;
+$spacing-extra-extra-extra-large: 16rem !default;
+
+$height-1: 1rem;
+$height-2: 2rem;
+$height-3: 4rem;
+$height-4: 8rem;
+$height-5: 16rem;
+
+$width-1: 1rem;
+$width-2: 2rem;
+$width-3: 4rem;
+$width-4: 8rem;
+$width-5: 16rem;
+
+$max-width-1: 1rem;
+$max-width-2: 2rem;
+$max-width-3: 4rem;
+$max-width-4: 8rem;
+$max-width-5: 16rem; // 256
+$max-width-6: 36rem; // 576
+$max-width-7: 48rem; // 768
+$max-width-8: 64rem; // 1024
+$max-width-9: 75rem; // 1200
+$max-width-10: 96rem; // 1536
+
+$border-radius-none: 0;
+$border-radius-1: .125rem;
+$border-radius-2: .25rem;
+$border-radius-3: .5rem;
+$border-radius-4: 1rem;
+$border-radius-circle: 100%;
+$border-radius-pill: 9999px;
+
+$border-width-none: 0;
+$border-width-1: 1px;
+$border-width-2: .25rem;
+$border-width-3: .5rem;
+$border-width-4: 1rem;
+$border-width-5: 2rem;
+
+$box-shadow-1: 0px 0px 4px 2px rgba( 0, 0, 0, 0.2 );
+$box-shadow-2: 0px 0px 8px 2px rgba( 0, 0, 0, 0.2 );
+$box-shadow-3: 2px 2px 4px 2px rgba( 0, 0, 0, 0.2 );
+$box-shadow-4: 2px 2px 8px 0px rgba( 0, 0, 0, 0.2 );
+$box-shadow-5: 4px 4px 8px 0px rgba( 0, 0, 0, 0.2 );
